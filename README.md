@@ -49,6 +49,8 @@ print("\nClassification Report:\n", classification_report(y_test, y_pred))
 
 ## Output:
 <img width="1266" height="414" alt="Screenshot 2025-09-03 111901" src="https://github.com/user-attachments/assets/9ab66652-23dc-48ac-9d18-65dea5251c1d" />
+<img width="873" height="634" alt="Screenshot 2025-09-03 113355" src="https://github.com/user-attachments/assets/9ac62c17-73a3-4afe-94a2-0614e85d7d83" />
+
 
 
 
